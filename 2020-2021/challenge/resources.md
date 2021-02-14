@@ -15,3 +15,5 @@ If you have questions about any resources, feel free to reach out!
 - [Table Build Instructions](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Robot%20Game%20Table%20Building%20Instructions.pdf)
 - [Participation Rules](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Participation%20Rules.pdf)
 - [Challenge Updates](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/replay-challenge-updates.pdf)
+- [Robot Game Video Recording Document](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/robot-game-video-recording-doc.pdf)
+- [Robot Game Video Recording YouTube Video](https://www.youtube.com/watch?v=-ZzYF3FSyDE&feature=youtu.be)

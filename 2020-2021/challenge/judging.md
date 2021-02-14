@@ -7,7 +7,7 @@ Each team will attend a single judging session for 30 minutes that covers all th
 
 ## Schedule
 
-Judging sessions will follow this format at both qualifiers and the championship.
+Judging sessions will follow this format at both qualifiers and the championship. You can find these details [on the flowchart](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Judging-Session-for-Teams.pdf), as well.
 
 - 2 Minutes: Team Welcome
 - 5 Minutes: Innovation Project Presentation
