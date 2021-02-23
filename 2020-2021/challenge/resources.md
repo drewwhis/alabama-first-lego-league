@@ -11,7 +11,7 @@ If you have questions about any resources, feel free to reach out!
 - [Robot Game Missions Video](https://youtu.be/ntRcZgWvopA)
 - [Judging Session Flow Chart](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Judging-Session-for-Teams.pdf)
 - [Robot Game Scoresheets](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/RePLAY-Scoresheet-for-scoring-software-without-scores-1-page.pdf)
-- [Robot Game Rulebook](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/FLL-Challenge-RGR-Final-ONA.pdf)
+- [Robot Game Rulebook](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/FLL-Challenge-RGR-Final.pdf)
 - [Table Build Instructions](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Robot%20Game%20Table%20Building%20Instructions.pdf)
 - [Participation Rules](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Participation%20Rules.pdf)
 - [Challenge Updates](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/replay-challenge-updates.pdf)
